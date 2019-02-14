@@ -1,0 +1,5 @@
+students
+--------
+first_name last_name age gender height date of birth employed alive Biography
+Tomas       Polan    28   male   182    21.09.1990    false   true   Once upon...
+Sstring    Sstring   int  string int    date          boolean boolean long string
